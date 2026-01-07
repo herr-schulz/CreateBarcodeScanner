@@ -1,0 +1,13 @@
+{
+  "itemGroup.barcodescanner": "Example Mod Tab",
+  "block.barcodescanner.example_block": "Example Block",
+  "item.barcodescanner.example_item": "Example Item",
+
+  "barcodescanner.configuration.title": "BarcodeScanner Configs",
+  "barcodescanner.configuration.section.barcodescanner.common.toml": "BarcodeScanner Configs",
+  "barcodescanner.configuration.section.barcodescanner.common.toml.title": "BarcodeScanner Configs",
+  "barcodescanner.configuration.items": "Item List",
+  "barcodescanner.configuration.logDirtBlock": "Log Dirt Block",
+  "barcodescanner.configuration.magicNumberIntroduction": "Magic Number Text",
+  "barcodescanner.configuration.magicNumber": "Magic Number"
+}
